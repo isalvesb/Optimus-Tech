@@ -1,0 +1,108 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: var(--font-primary);
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* CONTAINER PRINCIPAL */
+.header {
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 0.5rem;
+}
+
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 80px;
+}
+
+/* LOGO E TÍTULO */
+.header-logo-group {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem; /* Espaço entre a imagem e o texto */
+}
+
+.logo-img {
+  width: 2rem; /* 32px */
+  height: 2rem;
+  margin-left: 2rem;
+}
+
+.logo-text {
+  font-size: 1.125rem; /* 18px */
+  font-weight: 600;
+  color: var(--color-text-title);
+}
+
+/* LINKS PRINCIPAIS */
+.nav-menu {
+  display: flex;
+  list-style: none;
+  gap: var(--spacing-link);
+}
+
+.nav-menu a {
+  font-size: 1rem;
+  font-weight: 500;
+  color: var(--color-text-link);
+  transition: color 0.3s;
+}
+
+.nav-menu a:hover {
+  color: var(--color-primary);
+}
+
+/* BOTÕES DE AÇÃO */
+.header-user-actions {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+/* Estilo para o botão "Entrar" (apenas texto) */
+.btn-link {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-family: var(--font-primary);
+  font-size: 1rem;
+  font-weight: 500;
+  color: var(--color-text-link);
+  padding: 0.75rem 1.5rem; /* Ajuste para melhor área de clique */
+  transition: color 0.3s;
+}
+
+.btn-link:hover {
+  color: var(--color-text-title);
+}
+
+/* Estilo para o botão "Cadastrar" (CTA principal) */
+.btn-primary {
+  background-color: var(--color-primary);
+  color: var(--color-white);
+  border: 1px solid var(--color-primary);
+  border-radius: 0.5rem;
+  cursor: pointer;
+  padding: 0.75rem 1.5rem; /* 12px vertical, 24px horizontal */
+  font-family: var(--font-primary);
+  font-size: 1rem;
+  font-weight: 500;
+  transition: background-color 0.3s;
+  margin-right: 2rem;
+}
+
+.btn-primary:hover {
+  background-color: #a33a3a;
+}

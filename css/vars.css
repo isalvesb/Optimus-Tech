@@ -1,0 +1,9 @@
+:root {
+  /* Definição de Cores e Spacing para o projeto Optimus Tech */
+  --color-primary: #8e2424; /* O vermelho/marrom do logo e do botão 'Cadastrar' */
+  --color-text-link: #667085; /* Cor dos links - Gray 500 */
+  --color-text-title: #101828; /* Cor do texto do logo - Gray 900 */
+  --color-white: #ffffff;
+  --spacing-link: 2rem; /* Espaçamento padrão entre os links (32px) */
+  --font-primary: "Inter", sans-serif;
+}
