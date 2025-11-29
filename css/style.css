@@ -106,3 +106,47 @@ a {
 .btn-primary:hover {
   background-color: #a33a3a;
 }
+
+/* SEÇÃO HERO / SOBRE NÓS (Abaixo do header) */
+.about-us-hero {
+  /* Centraliza o conteúdo e adiciona espaço superior */
+  padding: 6rem 0; /* 96px de padding superior e inferior */
+  text-align: center;
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+.hero-content {
+  /* Limita a largura do bloco de texto para que não fique muito largo */
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+/* Estilo para a Tag de Destaque (Sobre nós) */
+.tag-title {
+  color: var(--color-primary);
+  font-size: 1rem;
+  font-weight: 600;
+  /* Espaçamento interno e margem inferior */
+  padding: 0.25rem 0.75rem; /* 4px vertical, 12px horizontal */
+  margin-bottom: 1rem;
+  /* Para centralizar a tag que é um elemento inline-block */
+  display: inline-block;
+}
+
+/* Estilo para o título principal (Porque somos diferentes) */
+.main-title {
+  color: var(--color-text-title);
+  font-size: 3rem; /* 48px */
+  font-weight: 600;
+  margin-bottom: 1.5rem; /* 24px abaixo */
+  line-height: 1.2;
+}
+
+/* Estilo para a Descrição / Subtítulo */
+.description {
+  color: var(--color-text-link);
+  font-size: 1.25rem; /* 20px */
+  font-weight: 400;
+  line-height: 1.5;
+}
