@@ -150,3 +150,45 @@ a {
   font-weight: 400;
   line-height: 1.5;
 }
+
+/* SEÇÃO DE MÉTRICAS */
+.metrics-section {
+  /* Padding e centralização pra a seção */
+  padding: 2.5rem 0 5rem;
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+.metrics-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  max-width: 1210px;
+  margin: 0 auto;
+  gap: 2rem;
+}
+
+.metric-item {
+  text-align: left;
+}
+
+.number {
+  font-size: 3.75rem;
+  font-weight: 600;
+  color: var(--color-primary);
+  line-height: 1.2;
+  margin-bottom: 0.5rem;
+}
+
+.text {
+  color: var(--color-text-title);
+  font-size: 1.125rem;
+  font-weight: 500;
+  margin-bottom: 0.25rem;
+}
+
+.supporting-text {
+  max-width: 280px;
+  font-size: 1rem;
+  font-weight: 400;
+  color: var(--color-text-link);
+}
