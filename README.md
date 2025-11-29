@@ -27,21 +27,7 @@ O foco é ****o layout****, não as funcionalidades.
 ## 🎨 Protótipo no Figma
 O design foi disponibilizado para consulta sem necessidade de instalar nada
 
-[![Projeto no Figma](https://img.shields.io/badge/Figma-7DaysOfCode-8e2424?style=flat-rounded&logo=figma&logoColor=white)](https://www.figma.com/design/mm3MLozvUDGhDRTxSLlGL5/7daysOfCode-HTML-CSS?node-id=0-9878&t=9EukZa1tqU7bKTCb-0)
-
----
-
-## 🧩 Dia 1 - Construção da Navbar
-No primeiro dia, o objetivo foi criar o **cabeçalho da aplicação**, composto por:
-- 🖼️ Logo
-- 📄 Menu de páginas
-- 🎛️ Botões do canto direito
-
-### Dicas aplicadas:
-- Separação da navbar em ****3 divisões principais**** com Flexbox
-- Exportação do logo diretamente do Figma
-- Estrutura semântica com `<header>`, `<nav>` e listas de navegação
-- Organização do projeto em pastas (/assets, /css, etc.)
+[![Projeto no Figma](https://img.shields.io/badge/Figma-7DaysOfCode-8e2424?style=flat-rounded&logo=figma&logoColor=white)](https://www.figma.com/design/mm3MLozvUDGhDRTxSLlGL5/7daysOfCode-HTML-CSS?node-id=0-9878&t=9EukZa1tqU7bKTCb-
 
 ---
 
@@ -50,7 +36,7 @@ No primeiro dia, o objetivo foi criar o **cabeçalho da aplicação**, composto 
 | ----- | --------------------------------------- | --------------- |
 | **1** | Criação da Navbar (logo, menu e botões) | ✅ Concluído     |
 | **2** | Hero Section                            | ✅ Concluído     |
-| **3** | Seção de vagas                          | ⏳ A fazer       |
+| **3** | Seção de Métricas                       | ✅ Concluído     |
 | **4** | Cards / Estrutura de informações        | ⏳ A fazer       |
 | **5** | Responsividade                          | ⏳ A fazer       |
 | **6** | Ajustes visuais + refinamento           | ⏳ A fazer       |
@@ -64,6 +50,10 @@ No primeiro dia, o objetivo foi criar o **cabeçalho da aplicação**, composto 
 
 #### Hero - Dia 2
 <img width="700" height="341" alt="image" src="https://github.com/user-attachments/assets/ec7cebe4-c32f-473d-9024-a5d05d21b2f8" />
+
+#### Métricas - Dia 3
+<img width="700" height="377" alt="image" src="https://github.com/user-attachments/assets/59cd6d03-7aa2-4079-a349-a522187f4ee8" />
+
 
 
 ---
