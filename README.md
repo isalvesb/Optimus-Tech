@@ -49,7 +49,7 @@ No primeiro dia, o objetivo foi criar o **cabeçalho da aplicação**, composto 
 | Dia   | Desafio                                 | Status          |
 | ----- | --------------------------------------- | --------------- |
 | **1** | Criação da Navbar (logo, menu e botões) | ✅ Concluído     |
-| **2** | Hero Section                            | ⌛ A fazer       |
+| **2** | Hero Section                            | ✅ Concluído     |
 | **3** | Seção de vagas                          | ⏳ A fazer       |
 | **4** | Cards / Estrutura de informações        | ⏳ A fazer       |
 | **5** | Responsividade                          | ⏳ A fazer       |
@@ -60,7 +60,11 @@ No primeiro dia, o objetivo foi criar o **cabeçalho da aplicação**, composto 
 
 ## 🖼️ Galeria do Projeto
 #### Navbar - Dia 1
-<img width="700" height="90" alt="image" src="https://github.com/user-attachments/assets/697372f1-b8b8-4d70-90f5-b89d4570e7ae" />
+<img width="700" height="90" alt="image" src="https://github.com/user-attachments/assets/697372f1-b8b8-4d70-90f5-b89d4570e7ae" />  
+
+#### Hero - Dia 2
+<img width="700" height="341" alt="image" src="https://github.com/user-attachments/assets/ec7cebe4-c32f-473d-9024-a5d05d21b2f8" />
+
 
 ---
 
