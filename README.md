@@ -27,7 +27,7 @@ O foco é ****o layout****, não as funcionalidades.
 ## 🎨 Protótipo no Figma
 O design foi disponibilizado para consulta sem necessidade de instalar nada
 
-[![Projeto no Figma](https://img.shields.io/badge/Figma-7DaysOfCode-8e2424?style=flat-rounded&logo=figma&logoColor=white)](https://www.figma.com/design/mm3MLozvUDGhDRTxSLlGL5/7daysOfCode-HTML-CSS?node-id=0-9878&t=9EukZa1tqU7bKTCb-
+[![Projeto no Figma](https://img.shields.io/badge/Figma-7DaysOfCode-8e2424?style=flat-rounded&logo=figma&logoColor=white)](https://www.figma.com/design/mm3MLozvUDGhDRTxSLlGL5/7daysOfCode-HTML-CSS?node-id=0-9878&t=9EukZa1tqU7bKTCb-)
 
 ---
 
