@@ -100,9 +100,17 @@ git clone https://github.com/isalvesb/Optimus-Tech
 ---
 
 ## 🌟 Extras 
-A Gi compartilhou conteúdos sobre Flexbox que me ajudaram no projeto:
+A Gi compartilhou conteúdos que me ajudaram no projeto:
 - [![YouTube](https://img.shields.io/badge/Assista%20no%20YouTube-FF0000?style=flat-rounded&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=tWWVgogdr98) → CSS Flexbox #1 -Flex Container
 - [![YouTube](https://img.shields.io/badge/Assista%20no%20YouTube-FF0000?style=flat-rounded&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=XREAEN-l5i8) → CSS Flexbox #2 - Flex Items
+- [![Leitura: HTML Estrutura Básica](https://img.shields.io/badge/HTML%20Estrutura%20Básica-E34F26?style=flat-rounded&logo=html5&logoColor=white)](https://www.alura.com.br/artigos/o-que-e-html-suas-tags-parte-1-estrutura-basica)
+ → Parte 1
+- [![Leitura: HTML Elementos Inline](https://img.shields.io/badge/HTML%20Elementos%20Inline-E34F26?style=flat-rounded&logo=html5&logoColor=white)](https://www.alura.com.br/artigos/o-que-e-html-suas-tags-parte-2-elementos-inline)
+ → Parte 2
+- [![Leitura: HTML Block-Level](https://img.shields.io/badge/HTML%20Block--Level-E34F26?style=flat-rounded&logo=html5&logoColor=white)](https://www.alura.com.br/artigos/html-tags-elementos-block-level)
+ → Parte 3
+
+
 
 ---
 
