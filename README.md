@@ -37,7 +37,7 @@ O design foi disponibilizado para consulta sem necessidade de instalar nada
 | **1** | Criação da Navbar (logo, menu e botões) | ✅ Concluído     |
 | **2** | Hero Section                            | ✅ Concluído     |
 | **3** | Seção de Métricas                       | ✅ Concluído     |
-| **4** | Cards / Estrutura de informações        | ⏳ A fazer       |
+| **4** | Sessão Talentos                         | ✅ Concluído     |
 | **5** | Responsividade                          | ⏳ A fazer       |
 | **6** | Ajustes visuais + refinamento           | ⏳ A fazer       |
 | **7** | Finalização + revisão geral             | ⏳ A fazer       |
@@ -54,13 +54,16 @@ O design foi disponibilizado para consulta sem necessidade de instalar nada
 #### Métricas - Dia 3
 <img width="700" height="377" alt="image" src="https://github.com/user-attachments/assets/59cd6d03-7aa2-4079-a349-a522187f4ee8" />
 
+#### Talentos - Dia 4 
+<img width="700" height="858" alt="image" src="https://github.com/user-attachments/assets/b8321565-7b2b-4c04-b874-fecb734771c7" />
+
 
 
 ---
 
 ## ⚒️ Tecnologias Utilizadas
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-rounded&logo=html5&logoColor=white) → Estrutura semântica  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-rounded&logo=css3&logoColor=white) → Estilização da página  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-rounded&logo=css&logoColor=white) → Estilização da página  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-rounded&logo=figma&logoColor=white) → Referência visual  
 ![Flexbox](https://img.shields.io/badge/Flexbox-ffca28?style=flat-rounded) → Criação de layout mais flexível e responsivo  
 ![Grid](https://img.shields.io/badge/CSS%20Grid-4caf50?style=flat-rounded) → (Usado nos próximos dias)  
@@ -99,6 +102,8 @@ A Gi compartilhou conteúdos que me ajudaram no projeto:
  → Parte 2
 - [![Leitura: HTML Block-Level](https://img.shields.io/badge/HTML%20Block--Level-E34F26?style=flat-rounded&logo=html5&logoColor=white)](https://www.alura.com.br/artigos/html-tags-elementos-block-level)
  → Parte 3
+- [![Leitura: CSS Unidades](https://img.shields.io/badge/CSS%20Unidades-1572B6?style=flat-rounded&logo=css&logoColor=white)](https://www.alura.com.br/artigos/guia-de-unidades-no-css) → Guia de Unidades no CSS
+
 
 
 
