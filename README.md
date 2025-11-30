@@ -37,7 +37,7 @@ O design foi disponibilizado para consulta sem necessidade de instalar nada
 | **1** | Criação da Navbar (logo, menu e botões) | ✅ Concluído     |
 | **2** | Hero Section                            | ✅ Concluído     |
 | **3** | Seção de Métricas                       | ✅ Concluído     |
-| **4** | Sessão Talentos                         | ✅ Concluído     |
+| **4** | Sessão de Talentos                      | ✅ Concluído     |
 | **5** | Responsividade                          | ⏳ A fazer       |
 | **6** | Ajustes visuais + refinamento           | ⏳ A fazer       |
 | **7** | Finalização + revisão geral             | ⏳ A fazer       |
