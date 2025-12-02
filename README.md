@@ -38,24 +38,32 @@ O design foi disponibilizado para consulta sem necessidade de instalar nada
 | **2** | Hero Section                            | ✅ Concluído     |
 | **3** | Seção de Métricas                       | ✅ Concluído     |
 | **4** | Sessão de Talentos                      | ✅ Concluído     |
-| **5** | Sessão Vagas                            | ⏳ A fazer       |
-| **6** | Ajustes visuais + refinamento           | ⏳ A fazer       |
+| **5** | Sessão de Vagas                         | ✅ Concluído     |
+| **6** | Sessão de Depoimento                    | ✅ Concluído     |
 | **7** | Finalização + revisão geral             | ⏳ A fazer       |
 
 ---
 
 ## 🖼️ Galeria do Projeto
 #### Navbar - Dia 1
-<img width="700" height="90" alt="image" src="https://github.com/user-attachments/assets/697372f1-b8b8-4d70-90f5-b89d4570e7ae" />  
+<img width="700" height="90" alt="sessao-navbar" src="https://github.com/user-attachments/assets/697372f1-b8b8-4d70-90f5-b89d4570e7ae" />  
 
 #### Hero - Dia 2
-<img width="700" height="341" alt="image" src="https://github.com/user-attachments/assets/ec7cebe4-c32f-473d-9024-a5d05d21b2f8" />
+<img width="700" height="341" alt="sessao-hero" src="https://github.com/user-attachments/assets/ec7cebe4-c32f-473d-9024-a5d05d21b2f8" />
 
 #### Métricas - Dia 3
-<img width="700" height="377" alt="image" src="https://github.com/user-attachments/assets/59cd6d03-7aa2-4079-a349-a522187f4ee8" />
+<img width="700" height="377" alt="sessao-metricas" src="https://github.com/user-attachments/assets/59cd6d03-7aa2-4079-a349-a522187f4ee8" />
 
 #### Talentos - Dia 4 
-<img width="700" height="858" alt="image" src="https://github.com/user-attachments/assets/b8321565-7b2b-4c04-b874-fecb734771c7" />
+<img width="700" height="858" alt="sessao-talentos" src="https://github.com/user-attachments/assets/b8321565-7b2b-4c04-b874-fecb734771c7" />
+
+#### Vagas - Dia 5
+<img width="700" height="406" alt="sessao-vagas-designer" src="https://github.com/user-attachments/assets/b8685814-e73f-4aa4-8685-cb9e57ca9b39" />
+
+<img width="700" height="520" alt="sessao-vagas-desenvolvedor" src="https://github.com/user-attachments/assets/b6153d2c-703f-44b3-867a-b2905e0f6cd5" />
+
+#### Depoimento - Dia 6
+<img width="700" height="569" alt="sessao-depoimento" src="https://github.com/user-attachments/assets/c2e9cd3d-2ca5-4f11-9772-8d9092de9b10" />
 
 
 
@@ -75,6 +83,7 @@ O design foi disponibilizado para consulta sem necessidade de instalar nada
  ┣ 📂 assets  
  ┃ ┗ 🖼️ worldwide 1 (Traced).png  
  ┃ ┗ 🖼️ team.png
+ ┃ ┗ 🖼️ woman.png
  ┣ 📂 css  
  ┃ ┗ style.css  
  ┃ ┗ vars.css  
@@ -104,6 +113,8 @@ A Gi compartilhou conteúdos que me ajudaram no projeto:
 - [![Leitura: HTML Block-Level](https://img.shields.io/badge/HTML%20Block--Level-E34F26?style=flat-rounded&logo=html5&logoColor=white)](https://www.alura.com.br/artigos/html-tags-elementos-block-level)
  → Parte 3
 - [![Leitura: CSS Unidades](https://img.shields.io/badge/CSS%20Unidades-1572B6?style=flat-rounded&logo=css&logoColor=white)](https://www.alura.com.br/artigos/guia-de-unidades-no-css) → Guia de Unidades no CSS
+- [![Alura Artigo: ID vs Class](https://img.shields.io/badge/CSS%20ID%20vs%20Class-1572B6?style=flat-rounded&logo=css&logoColor=white)](https://www.alura.com.br/artigos/qual-diferenca-entre-id-e-class?utm_medium=email&_hsenc=p2ANqtz-8gkXEx43-tElxGS-2ZP3f5BQQg0OJ152hdaSQjXAPMoNXt1RqFTspijIP2rAmUXvbr4npRJFhL85oNtK_ymGRL5X1LupctQwRazm14bupnNEOFxCc&_hsmi=231337026&utm_content=231337026&utm_source=hs_automation) → Qual a diferença entre id e class?
+
 
 
 
