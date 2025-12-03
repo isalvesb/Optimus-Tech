@@ -40,7 +40,7 @@ O design foi disponibilizado para consulta sem necessidade de instalar nada
 | **4** | Sessão de Talentos                      | ✅ Concluído     |
 | **5** | Sessão de Vagas                         | ✅ Concluído     |
 | **6** | Sessão de Depoimento                    | ✅ Concluído     |
-| **7** | Finalização + revisão geral             | ⏳ A fazer       |
+| **7** | Formulário e Footer                     | ✅ Concluído     |
 
 ---
 
@@ -65,6 +65,10 @@ O design foi disponibilizado para consulta sem necessidade de instalar nada
 #### Depoimento - Dia 6
 <img width="700" height="569" alt="sessao-depoimento" src="https://github.com/user-attachments/assets/c2e9cd3d-2ca5-4f11-9772-8d9092de9b10" />
 
+#### Formulário e Footer - Dia 7
+<img width="700" height="277" alt="formulário" src="https://github.com/user-attachments/assets/93beab40-fbf2-4a78-abf7-84642a9ae355" />
+
+<img width="700" height="110" alt="footer" src="https://github.com/user-attachments/assets/9725997d-8aa5-4f36-afc6-85472e36daa0" />
 
 
 ---
@@ -114,10 +118,7 @@ A Gi compartilhou conteúdos que me ajudaram no projeto:
  → Parte 3
 - [![Leitura: CSS Unidades](https://img.shields.io/badge/CSS%20Unidades-1572B6?style=flat-rounded&logo=css&logoColor=white)](https://www.alura.com.br/artigos/guia-de-unidades-no-css) → Guia de Unidades no CSS
 - [![Alura Artigo: ID vs Class](https://img.shields.io/badge/CSS%20ID%20vs%20Class-1572B6?style=flat-rounded&logo=css&logoColor=white)](https://www.alura.com.br/artigos/qual-diferenca-entre-id-e-class?utm_medium=email&_hsenc=p2ANqtz-8gkXEx43-tElxGS-2ZP3f5BQQg0OJ152hdaSQjXAPMoNXt1RqFTspijIP2rAmUXvbr4npRJFhL85oNtK_ymGRL5X1LupctQwRazm14bupnNEOFxCc&_hsmi=231337026&utm_content=231337026&utm_source=hs_automation) → Qual a diferença entre id e class?
-
-
-
-
+- [![Artigo sobre HTML – Alura](https://img.shields.io/badge/HTML%20Formulários-E34F26?style=flat-rounded&logo=html5&logoColor=white)](https://www.alura.com.br/artigos/o-que-e-html-suas-tags-parte-4-elementos-formulario?utm_medium=email&_hsenc=p2ANqtz--auLKvvXm39nwOr1RyFWNUyQwhhIqh71v_pH7DEpMeQ3HE33dqByXl9zhmX1qmM9y3fMb69KdQ4BC7PQxrlIE6eOMMfedaILZfsD85Hir2WtiOIa0&_hsmi=231338144&utm_content=231338144&utm_source=hs_automation) → Elementos de formulário em HTML: entenda as tags essenciais
 
 ---
 
